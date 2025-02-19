@@ -3,3 +3,5 @@ para realizar esto realizamos el comando :
 git pull origin master
 o si trabajas en la rama maid
 git pull origin main
+
+pull es pregunta de examen
