@@ -1,0 +1,5 @@
+este es un ejemplo de como agregar o actualizar datos desde git hub y verlos en visual code
+para realizar esto realizamos el comando :
+git pull origin master
+o si trabajas en la rama maid
+git pull origin main
